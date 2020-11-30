@@ -1,3 +1,3 @@
-### Welcome to my lab! :wave::skin-tone-5:
+### Welcome to my lab! :wave:
 
 I am currently focusing on the MERN stack and working on my portfolio. 
