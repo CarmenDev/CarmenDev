@@ -1,5 +1,5 @@
 ### Welcome to my lab! :wave:
 
-I'm currently studying cloud computing.
+I'm currently interested in groovy and cloud computing.
 
 Profile picture by artist Yellow Yemisi.
